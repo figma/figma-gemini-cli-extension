@@ -16,7 +16,7 @@ To use this extension, you'll need to sign in through Figma's OAuth authenticati
 Install the extension using the `gemini extensions install` command:
 
 ```bash
-gemini extensions install https://github.com/figma/figma-gemini-cli-extension.git
+gemini extensions install https://github.com/figma/figma-gemini-cli-extension
 ```
 
 ### Using Figma's Remote MCP server
@@ -33,3 +33,11 @@ sharing links to the files.
 ### Figma Remote MCP Server Documentation
 
 - https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/
+
+## Uinstalling Figma's Gemini CLI extension
+
+Uninstall the extension using the `gemini extensions uninstall` command:
+
+```bash
+gemini extensions uninstall figma
+```
