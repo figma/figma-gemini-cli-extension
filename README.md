@@ -34,7 +34,7 @@ sharing links to the files.
 
 - https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/
 
-## Uinstalling Figma's Gemini CLI extension
+## Uninstalling Figma's Gemini CLI extension
 
 Uninstall the extension using the `gemini extensions uninstall` command:
 

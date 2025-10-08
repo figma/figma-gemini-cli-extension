@@ -1,6 +1,7 @@
 {
   "name": "Figma",
   "version": "1.0.0",
+  "description": "Integrate Figma into your workflow: Generate code from frames, extract design context, retrieve resources, and ensure design system consistency with your codebase",
   "mcpServers": {
     "figma": {
       "httpUrl": "https://mcp.figma.com/mcp",
